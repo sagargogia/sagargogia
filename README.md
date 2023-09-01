@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/sagargogia/sagargogia/assets/37014855/411d4e5f-c8e0-46c2-9163-6f4e5cdae6a3))
+![image](https://github.com/sagargogia/sagargogia/assets/37014855/411d4e5f-c8e0-46c2-9163-6f4e5cdae6a3)
 <h1 align="center">Hi 👋, I'm Sagar Gogia!</h1>
 <h3 align="center">A Cybersecurity Enthusiast</h3>
 <img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/D4D03AQF7sWOND7dXRw/profile-displayphoto-shrink_800_800/0/1686777226374?e=2147483647&v=beta&t=bempzSfbCyz6vSDIlfu5ZeNGGpLLDYG8UmQDZvI2GYw">
